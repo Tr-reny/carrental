@@ -25,7 +25,7 @@ echo "<script type='text/javascript'> document.location = 'change-password.php';
 
 ?>
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="en" class="no-js"> 
 
 <head>
 	<meta charset="UTF-8">
