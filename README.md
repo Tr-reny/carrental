@@ -89,6 +89,18 @@ Many more....
   
   
  ![alt text] ( https://github.com/Tr-reny/carrental/blob/main/screenshoot/admin/Screenshot%20at%202022-05-29%2011-32-26.png)
+ 
+ 
+ 
+ 
+ ![Screenshot at 2022-05-29 11-25-23](https://user-images.githubusercontent.com/57016982/170866509-0a2af66e-b34e-4a8a-9f9b-7ae4522c1a69.png)
+![Screenshot at 2022-05-29 11-26-45](https://user-images.githubusercontent.com/57016982/170866511-652af442-f471-4338-b9fc-89f122fd9763.png)
+![Screenshot at 2022-05-29 11-27-12](https://user-images.githubusercontent.com/57016982/170866514-1f60326e-725b-42e7-afc6-9be98eac715a.png)
+![Screenshot at 2022-05-29 11-29-06](https://user-images.githubusercontent.com/57016982/170866517-3acfa93f-17e6-4efe-9606-92282c4ab471.png)
+![Screenshot at 2022-05-29 11-29-51](https://user-images.githubusercontent.com/57016982/170866519-7814c393-139b-4a4b-8130-540bba126072.png)
+![Screenshot at 2022-05-29 11-32-13](https://user-images.githubusercontent.com/57016982/170866521-4d9c2f2d-6a6f-4369-8f95-dd118335f607.png)
+![Screenshot at 2022-05-29 11-32-26](https://user-images.githubusercontent.com/57016982/170866522-741706c8-4d49-457a-a05b-a20e08bc5b1c.png)
+
   
   
   
