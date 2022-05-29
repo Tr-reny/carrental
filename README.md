@@ -61,6 +61,8 @@ Many more....
 - You can navigaate to the system via localhost/carrental
 - Username and password for admin section is admin and password.
 - For normal system us, you can use test@gmail.com and password is password.
+
+
 **
                                         **SCREENSHOOT****
                                         
