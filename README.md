@@ -68,7 +68,7 @@ Many more....
                                         
           ## Admin Screenshots : 
           
-          https://github.com/Tr-reny/carrental/blob/main/screenshoot/admin/Screenshot%20at%202022-05-29%2011-25-23.png
+  https://github.com/Tr-reny/carrental/blob/main/screenshoot/admin/Screenshot%20at%202022-05-29%2011-25-23.png
           
            
            
