@@ -143,6 +143,7 @@ $query->execute();
 $results=$query->fetchAll(PDO::FETCH_OBJ);
 $cnt=1;
 if($query->rowCount() > 0)
+
 {
 foreach($results as $result)
 {       ?>  
