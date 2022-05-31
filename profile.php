@@ -91,7 +91,7 @@ $msg="Profile Updated Successfully";
 <!-- Start Switcher -->
 <?php include('includes/colorswitcher.php');?>
 <!-- /Switcher -->  
-        
+         
 <!--Header-->
 <?php include('includes/header.php');?>
 <!-- /Header --> 
