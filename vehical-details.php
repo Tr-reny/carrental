@@ -3,6 +3,7 @@ session_start();
 include('includes/config.php');
 error_reporting(0);
 if(isset($_POST['submit']))
+
 {
 $fromdate=$_POST['fromdate'];
 $todate=$_POST['todate']; 
