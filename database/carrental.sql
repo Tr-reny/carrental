@@ -193,8 +193,8 @@ CREATE TABLE IF NOT EXISTS `tblsubscribers` (
 --
 
 INSERT INTO `tblsubscribers` (`id`, `SubscriberEmail`, `PostingDate`) VALUES
-(1, 'rennykipkoech@gmail.com', '2017-06-22 16:35:32'),
-(4, 'hillarykipkemo@gmail.com', '2021-03-02 18:07:15');
+(1, 'ren@gmail.com', '2017-06-22 16:35:32'),
+(4, 'hil.com', '2021-03-02 18:07:15');
 
 -- --------------------------------------------------------
 
