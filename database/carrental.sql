@@ -250,7 +250,7 @@ INSERT INTO `tblusers` (`id`, `FullName`, `EmailId`, `Password`, `ContactNo`, `d
 (1, 'demo', 'demo@gmail.com', '5F4DCC3B5AA765D61D8327DEB882CF99', '2147483647', NULL, NULL, NULL, NULL, '2017-06-17 19:59:27', '2021-03-02 17:21:57'),
 (4, 'test', 'test@gmail.com', '5F4DCC3B5AA765D61D8327DEB882CF99', '9999857868', '', 'Kisii County', 'Kisii County', 'Kisii County', '2017-06-17 20:03:36', '2021-03-02 17:33:55'),
 (5, 'rey', 'rennykip@gmail.com', 'c4ca4238a0b923820dcc509a6f75849b', '0707863686', NULL, NULL, NULL, NULL, '2021-03-02 17:38:01', NULL),
-(6, 'hillary ', 'hil@gmail.com', '5f4dcc3b5aa765d61d8327deb882cf99', '0707884385', NULL, NULL, NULL, NULL, '2021-03-02 18:06:08', NULL);
+(6, 'hil ', 'hil@gmail.com', '5f4dcc3b5aa765d61d8327deb882cf99', '0707884385', NULL, NULL, NULL, NULL, '2021-03-02 18:06:08', NULL);
 
 -- --------------------------------------------------------
 
