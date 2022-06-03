@@ -11,12 +11,10 @@
 - Upload manager: banner, images,..
 - SEO support: customer URL
 - Newsletter management
-- Contact forms with the real-time notification (Laravel Pusher)
+- Contact forms with the real-time notification 
 - Related Products, Recommendations for you in our categories
 - A Product search form
-- Laravel Socialite implement(Facebook, Google & twitter) & Customer login
 - Product Share and follow from different social platform...
-- Payment integration(Paypal)
 - Order Tracking system
 - Multi-level comment system
 many more......
