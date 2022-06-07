@@ -7,7 +7,8 @@ if(strlen($_SESSION['login'])==0)
 header('location:index.php');
 }
 else{
-?><!DOCTYPE HTML>
+?>
+<!DOCTYPE HTML>
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
