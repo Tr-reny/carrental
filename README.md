@@ -17,7 +17,7 @@
 - Product Share and follow from different social platform...
 - Order Tracking system
 - Multi-level comment system
-many more......
+
 
 ======= ADMIN =======
 
